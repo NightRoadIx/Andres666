@@ -1,0 +1,11 @@
+D:\VisualStudio2022\Source\Repos\Andres\Andres\bin\Debug\Andres.exe.config
+D:\VisualStudio2022\Source\Repos\Andres\Andres\bin\Debug\Andres.exe
+D:\VisualStudio2022\Source\Repos\Andres\Andres\bin\Debug\Andres.pdb
+D:\VisualStudio2022\Source\Repos\Andres\Andres\obj\Debug\Andres.csproj.AssemblyReference.cache
+D:\VisualStudio2022\Source\Repos\Andres\Andres\obj\Debug\Andres.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio2022\Source\Repos\Andres\Andres\obj\Debug\Andres.Form1.resources
+D:\VisualStudio2022\Source\Repos\Andres\Andres\obj\Debug\Andres.Properties.Resources.resources
+D:\VisualStudio2022\Source\Repos\Andres\Andres\obj\Debug\Andres.csproj.GenerateResource.cache
+D:\VisualStudio2022\Source\Repos\Andres\Andres\obj\Debug\Andres.csproj.CoreCompileInputs.cache
+D:\VisualStudio2022\Source\Repos\Andres\Andres\obj\Debug\Andres.exe
+D:\VisualStudio2022\Source\Repos\Andres\Andres\obj\Debug\Andres.pdb
